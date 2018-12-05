@@ -6,6 +6,7 @@ react-router-dom
 
 PAGES
 Login
+<!-- KYLE & RAFI -->
 Some Auth/Passport
 Small box on the center of screen
 If you dont log in then you can sign up and after you take the survey
@@ -14,14 +15,16 @@ Home
 After you log in it will bring you to this home page 
 It has your friends, gigs/a calender that can help you keep track of concerts that you and your friends are attending or playing.
 jumbotron that cycles through your friends posts/ads/gig opportunitys on the upper half of the page. Lower half is friend cards.
-People can pay to have their shit on there (bands gigs etc)
+People can pay to have their stuff on there (bands gigs etc)
 
 Search
+<!-- Tony -->
 Drop down that has checkboxes that can search by the instruments/styles/possibly distances
 OR search by name just text input
 Cards will appear
 
 Survey
+<!-- Josh-->
 Swoop the survey
 add link to spotify , soundcloud, youtube
 empty text box^^ 
@@ -50,6 +53,7 @@ Header
 Swoop it
 
 Nav
+<!-- Josh -->
 Dank Css one
 Links to:
 -Home(Users home if logged in) if not login
@@ -83,6 +87,7 @@ Profile
 Swoop
 
 Log in Box
+Oauth type stuff
 
 
 
